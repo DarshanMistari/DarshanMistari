@@ -2,13 +2,12 @@
 
 ## 🚀 About Me
 
-🎓 Completed Bachelor of Computer Applications (BCA)
-💻 Passionate about Full-Stack Java Development and always excited to learn new technologies
-🔧 Strong interest in building scalable & real-world applications
-🌱 Currently learning Spring Boot, REST APIs & Advanced Backend Development
-🤝 Looking to collaborate on Java, Spring Boot & Open Source Projects
+🎓 Completed Bachelor of Computer Applications (BCA)<br>
+💻 Passionate about Full-Stack Java Development and always excited to learn new technologies<br>
+🔧 Strong interest in building scalable & real-world applications<br>
+🌱 Currently learning Spring Boot, REST APIs & Advanced Backend Development<br>
+🤝 Looking to collaborate on Java, Spring Boot & Open Source Projects<br>
 💬 Ask me about **Java, OOP, JDBC, Hibernate, Servlets, MySQL**
-⚡ Fun fact: 
 
 ---
 
