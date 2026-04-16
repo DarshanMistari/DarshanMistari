@@ -38,11 +38,11 @@ Eclipse • Apache NetBeans • IntelliJ IDEA • VS Code • Android Studio •
 
 ## 🎓 Certifications & Training
 
-● C Language
-● C++
-● Core Java & Java 8
-● Advance Java (JDBC, Hibernate, Servlet, Maven, GitHub)
-● Employability Enhancement Program (Centum Foundation supported by Infosys Foundation)
+● C Language<br>
+● C++<br>
+● Core Java & Java 8<br>
+● Advance Java (JDBC, Hibernate, Servlet, Maven, GitHub)<br>
+● Employability Enhancement Program (Centum Foundation supported by Infosys Foundation)<br>
 ● Employability Skills under Life Skills (Rubicon Foundation)
 
 ---
